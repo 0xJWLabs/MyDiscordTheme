@@ -733,31 +733,31 @@
     }
 
     /* Settings: Vencord Icons */
-    .item_a0[data-tab-id="VencordSettings" i]::before {
+    .item_a0[data-tab-id="EnhancecordSettings" i]::before {
         mask: var(--icon-Vencord, var(--icon-Default)) center/contain no-repeat;
     }
 
-    .item_a0[data-tab-id="VencordPlugins" i]::before {
+    .item_a0[data-tab-id="EnhancecordPlugins" i]::before {
         mask: var(--icon-Plugins, var(--icon-Default)) center/contain no-repeat;
     }
 
-    .item_a0[data-tab-id="VencordThemes" i]::before {
+    .item_a0[data-tab-id="EnhancecordThemes" i]::before {
         mask: var(--icon-Themes, var(--icon-Default)) center/contain no-repeat;
     }
 
-    .item_a0[data-tab-id="VencordUpdater" i]::before {
+    .item_a0[data-tab-id="EnhancecordUpdater" i]::before {
         mask: var(--icon-Updater, var(--icon-Default)) center/contain no-repeat;
     }
 
-    .item_a0[data-tab-id="VencordCloud" i]::before {
+    .item_a0[data-tab-id="EnhancecordCloud" i]::before {
         mask: var(--icon-Cloud, var(--icon-Default)) center/contain no-repeat;
     }
 
-    .item_a0[data-tab-id="VencordSettingsSync" i]::before {
+    .item_a0[data-tab-id="EnhancecordSettingsSync" i]::before {
         mask: var(--icon-BackupRestore, var(--icon-Default)) center/contain no-repeat;
     }
 
-    .item_a0[data-tab-id="Vesktop" i]::before {
+    .item_a0[data-tab-id="Enhancebop" i]::before {
         mask: var(--icon-Discord, var(--icon-Default)) center/contain no-repeat;
     }
 
